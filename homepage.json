@@ -1,0 +1,11 @@
+{
+	"name": "sleek machine",
+	"image": "http://zenmagiclove.com/simple/jaguar.jpg",
+	"description": "\n<strong>pubstarter</strong> is a project to magically jumpstart a tool for the collaborative creation of long-form publications, like books.\n",
+	"requirements": [
+		"we'll start with a textarea that allows collaborative writing and editing by the particiaspants of the project, interested individuals who will be self-selected from the general population. the text will be light-markup that describes the building of the project. the project will consist of javascript code that takes the text in the textarea, and turns i it into .html that will serves as an online web-mounted e-book. there will also be code that turns that .html into a .pdf. and code that turns it into an .epub. and code that turns it into a .mobi for amazon machines like the kindle.",
+		"\n\n"
+	],
+	"storage-location": "\nthe storage location for this mavo project is here:<br>\n<a href=\"https://github.com/bbirdiman/pubstarter\">https://github.com/bbirdiman/pubstarter</a>\n",
+	"thetextarea": "\n"
+}
