@@ -24,7 +24,7 @@
 		}
 	],
 	"a-new-paragraph": [
-		"we'll start with a textarea that allows collaborative writing and editing by the interested volunteer participants of the project.",
+		"you'll start with an editor that allows collaborative writing by the interested volunteer participants of the project. this tool can work in way you desire, but it must output a \"strext\" version of the document, i.e., \"a structured text\". this can be markdown, asciidoc, restructured-text, markua, zml, or a new light-markup format of your own invention.",
 		"the text will be light-markup that describes the building of the project.",
 		"the project will consist of javascript code that takes the text in the textarea, and turns it into .html that will render it as an online web-mounted e-book.",
 		"there will also be code that turns that .html into a .pdf. ",
