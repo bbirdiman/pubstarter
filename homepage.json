@@ -25,8 +25,7 @@
 	],
 	"a-new-paragraph": [
 		"you'll start with an editor that allows collaborative writing by the interested volunteer participants of the project. this tool can work in way you desire, but it must output a \"strext\" version of the document, i.e., \"a structured text\". this can be markdown, asciidoc, restructured-text, markua, zml, or a new light-markup format of your own invention.",
-		"the text will be light-markup that describes the building of the project.",
-		"the project will consist of javascript code that takes the text in the textarea, and turns it into .html that will render it as an online web-mounted e-book.",
+		"the project will consist of javascript code -- running client-side, or server-side on an open-source website that is free to the general public -- that converts the strext into .html. this .html must render online as a web-mounted e-book, and the quality of the usability of this e-book is a major consideration.",
 		"there will also be code that turns that .html into a .pdf. ",
 		"and code that turns it into an .epub.",
 		"and code that turns it into a .mobi for amazon machines like the kindle."
