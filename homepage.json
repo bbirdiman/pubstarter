@@ -1,7 +1,7 @@
 {
 	"name": "sleek machine",
 	"image": "http://zenmagiclove.com/simple/jaguar.jpg",
-	"description": "\n<strong>pubstarter</strong> is a project to magically jumpstart a tool for the collaborative creation of long-form publications, like books.\n",
+	"description": "<strong>pubstarter</strong> is a project to magically jumpstart a tool for<br>the collaborative creation of long-form publications, like books.",
 	"requirements": [
 		"xxx<br>",
 		"\n\n"
