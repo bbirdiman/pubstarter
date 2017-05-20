@@ -21,7 +21,10 @@
 		}
 	],
 	"a-new-paragraph": [
-		"\nparagraph one\n",
-		"here's your next paragraph\n"
+		"we'll start with a textarea that allows collaborative writing and editing by the participants of the project, interested individuals who will be self-selected from the general population.",
+		"the text will be light-markup that describes the building of the project.",
+		"the project will consist of javascript code that takes the text in the textarea, and turns it into .html that will render it as an online web-mounted e-book.",
+		"there will also be code that turns that .html into a .pdf. and code that turns it into an .epub.",
+		"and code that turns it into a .mobi for amazon machines like the kindle."
 	]
 }
