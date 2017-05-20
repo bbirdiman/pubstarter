@@ -12,15 +12,35 @@
 		{
 			"done": false,
 			"taskTitle": "what to do",
-			"the-new-task": "start with a textarea"
+			"the-new-task": "start with a collaborative editor."
 		},
 		{
 			"done": false,
-			"the-new-task": "task two"
+			"the-new-task": "a \"strext\" file must be created out of it."
 		},
 		{
 			"done": false,
-			"the-new-task": "task three"
+			"the-new-task": "the first publication must document the creation process."
+		},
+		{
+			"done": false,
+			"the-new-task": "an .html version of the publication must be mounted."
+		},
+		{
+			"done": false,
+			"the-new-task": "a downloadable .pdf must be created."
+		},
+		{
+			"done": false,
+			"the-new-task": "a downloadable .epub version must be created."
+		},
+		{
+			"done": false,
+			"the-new-task": "a downloadable .mobi version must be created."
+		},
+		{
+			"done": false,
+			"the-new-task": "use your tool on documents from other participants."
 		}
 	],
 	"a-new-paragraph": [
