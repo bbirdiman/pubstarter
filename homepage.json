@@ -59,5 +59,6 @@
 		"there must also be javascript code that turns the document into a .pdf. it is immaterial whether the input of this conversion is the original strext-file or the .html which was generated from it.",
 		"there must also be javascript code that turns the publication into an .epub.",
 		"finally, there must be javascript code that turns the publication into a .mobi file, for amazon machines like the kindle. the .mobi file can be generated from the .epub file if desired."
-	]
+	],
+	"mytextarea": "hello... this is my textarea. i have added text to it.  did it work?\n"
 }
