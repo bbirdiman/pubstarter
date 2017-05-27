@@ -1,7 +1,7 @@
 {
 	"name": "please build a sleek machine...",
 	"image": "http://zenmagiclove.com/simple/jaguar.jpg",
-	"description": "<b>\"the strext challenge!\"</b> is a call to various collaborative systems to magically jumpstart a web-based tool for the collaborative creation of long-form publications, such as books. this \"**pubstarter!**\" project is **the mavo response**. per the challenge, the first publication that should be created with the tool is one that documents the process of creating the tool. # one ## two ### three this is an *asterisk* word, and this is an _underline_ word.",
+	"description": "**\"the strext challenge!\"** is a *call* to _various_ collaborative systems to magically jumpstart a web-based tool for the collaborative creation of long-form publications, such as books. this \"**pubstarter!**\" project is **the mavo response**. per the challenge, the first publication that should be created with the tool is one that documents the process of creating the tool. # one ## two ### three this is an *asterisk* word, and this is an _underline_ word.",
 	"task": [
 		{
 			"done": true,
